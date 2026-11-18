@@ -1,4 +1,7 @@
 programming languages:
-    python
-    javascript
-    c++
+    python - strong
+    javascript - strong
+    c++ - weak
+
+foreign languages:
+    french - weak
